@@ -1,0 +1,31 @@
+page-signup {
+  .scroll-content {
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+ion-card.card {
+  border-radius: 10px;
+}
+
+
+ion-card-header.card-header {
+  font-weight: bold
+}
+
+.list > .item-block:first-child {
+  border: medium none;
+}
+
+.item {
+  margin-bottom: 10px;
+  border: medium none;
+}
+
+.icon {
+  padding-right: 10px
+}
+}
